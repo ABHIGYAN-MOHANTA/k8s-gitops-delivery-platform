@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/abhigyan_mohanta/k8s-gitops-delivery-platform
+    repoURL: https://github.com/abhigyan-mohanta/k8s-gitops-delivery-platform
     targetRevision: HEAD
     path: apps/task-api
 
